@@ -1,4 +1,4 @@
-# Churn-Rate-Predictor
+# Churn-Rate-Classifier
 
 This data exploration project is an in-depth analysis consisting of a machine learning model to predict the churn rate of consumers of telecom companies.
 
